@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is a special file of protein networks project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/33fa462068861f2786d365b1562109dd_sensorODE.m
+file: /media/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/33fa462068861f2786d365b1562109dd_sensorODE.m
 file_type: text/x-objcsrc
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Protein Networks Project
+parent_type: CourseSection
 resourcetype: Other
 title: sensorODE.m
 uid: 33fa4620-6886-1f27-86d3-65b1562109dd

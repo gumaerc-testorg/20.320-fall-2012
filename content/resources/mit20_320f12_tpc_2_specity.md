@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This file contains information regarding interaction specificity.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/82d39252b2779b18ddc414e6af08a040_MIT20_320F12_Tpc_2_Specity.pdf
+file: /media/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/82d39252b2779b18ddc414e6af08a040_MIT20_320F12_Tpc_2_Specity.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Modeling and Manipulating Biomolecular Interactions
+parent_type: CourseSection
 resourcetype: Document
 title: '20.320 Analysis of Biomolecular and Cellular Systems, Lecture Notes: 2 Interaction
   Specificity'

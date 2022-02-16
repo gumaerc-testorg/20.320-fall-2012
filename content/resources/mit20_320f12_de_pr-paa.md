@@ -2,8 +2,12 @@
 content_type: resource
 description: "This file contains information regarding design project \u2013 part\
   \ a."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/2c2589e87d0f636e053805d14dc01a98_MIT20_320F12_De_Pr-PaA.pdf
+file: /media/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/2c2589e87d0f636e053805d14dc01a98_MIT20_320F12_De_Pr-PaA.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Protein Networks Project
+parent_type: CourseSection
 resourcetype: Document
 title: "20.320 Analysis of Biomolecular and Cellular Systems, Protein Networks Project:\
   \ Design Project \u2013 Part A"

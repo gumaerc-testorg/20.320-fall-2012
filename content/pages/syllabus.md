@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f427ae32-67af-b31d-f03a-37ad1aa655ab
 ---
@@ -109,4 +111,4 @@ If you have questions about problems that you got wrong on the exams or design p
 Software
 --------
 
-MATLAB® is used in the [Modeling of Cellular Systems]({{< baseurl >}}/pages/modeling-of-cellular-systems) and [Protein Networks Project]({{< baseurl >}}/pages/modeling-of-cellular-systems/protein-networks-project) sections of the course; Python, [PyMOL](http://www.pymol.org/) and [PyRosetta](http://www.pyrosetta.org/) are used in the [Modeling and Manipulating Biomolecular Interactions]({{< baseurl >}}/pages/modeling-and-manipulating-biomolecular-interactions) and [Protein Design Project]({{< baseurl >}}/pages/modeling-and-manipulating-biomolecular-interactions/protein-design-project) sections. If you are a student or teacher, you may be able to [register for an educational-use-only PyMOL license](http://pymol.org/edu/).
+MATLAB{{< sup "®" >}} is used in the [Modeling of Cellular Systems]({{< baseurl >}}/pages/modeling-of-cellular-systems) and [Protein Networks Project]({{< baseurl >}}/pages/modeling-of-cellular-systems/protein-networks-project) sections of the course; Python, [PyMOL](http://www.pymol.org/) and [PyRosetta](http://www.pyrosetta.org/) are used in the [Modeling and Manipulating Biomolecular Interactions]({{< baseurl >}}/pages/modeling-and-manipulating-biomolecular-interactions) and [Protein Design Project]({{< baseurl >}}/pages/modeling-and-manipulating-biomolecular-interactions/protein-design-project) sections. If you are a student or teacher, you may be able to [register for an educational-use-only PyMOL license](http://pymol.org/edu/).

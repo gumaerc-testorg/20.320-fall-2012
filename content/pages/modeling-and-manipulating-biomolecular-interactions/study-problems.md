@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Modeling and Manipulating Biomolecular Interactions
+parent_type: CourseSection
 parent_uid: 52f93d5d-eeab-ca0a-0c75-5793cc45656c
 title: Study Problems
 uid: e741af51-f70b-3b3f-b90b-df4225810bdb

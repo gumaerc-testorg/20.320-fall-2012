@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/5d3dc2d104a2573dcd3f37d2f92736ba_20-320_stat-students.png
+file: /media/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/5d3dc2d104a2573dcd3f37d2f92736ba_20-320_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 20-320_stat-students.png
 uid: 5d3dc2d1-04a2-573d-cd3f-37d2f92736ba

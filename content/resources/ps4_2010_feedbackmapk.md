@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is special file related to assignments.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/9fef775e000d905b215ff67aee922292_PS4_2010_FeedbackMAPK.m
+file: /media/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/9fef775e000d905b215ff67aee922292_PS4_2010_FeedbackMAPK.m
 file_type: text/x-objcsrc
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Other
 title: PS4_2010_FeedbackMAPK.m
 uid: 9fef775e-000d-905b-215f-f67aee922292

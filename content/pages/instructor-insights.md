@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: bc553a4f-8622-e2d3-c60e-87b6d361ffd2
 ---
@@ -43,28 +45,6 @@ Required for undergraduates majoring in [Biological Engineering](http://web.mit.
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A large classroom with tiered seating and several chalkboards.]({{< resource_file 87ccd1c9-c71d-1f9f-be0a-126ce8eaaea9 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    A large auditorium-style classroom was used for lectures. The professors used both the chalkboards and the projector.
-    
-*   ![A medium-sized classroom with student desks and several chalkboards.]({{< resource_file 784d7817-4ec4-3ba8-61ab-2850b8524213 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Students optionally attended one of two recitation sections in a medium-sized classroom like this one.
-    
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 

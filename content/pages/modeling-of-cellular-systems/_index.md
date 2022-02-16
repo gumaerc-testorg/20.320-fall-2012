@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Modeling of Cellular Systems
 uid: cebb4d77-9ee1-4d41-5e78-cb06b0277b90
 ---

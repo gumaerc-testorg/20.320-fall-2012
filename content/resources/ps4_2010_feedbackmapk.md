@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cd4b4519-6d0f-99f6-fa2a-8d816797da6e
 resourcetype: Other
 title: PS4_2010_FeedbackMAPK.m
 uid: 9fef775e-000d-905b-215f-f67aee922292

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Protein Networks Project
 parent_type: CourseSection
+parent_uid: 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0
 resourcetype: Other
 title: sensorODE_solver.m
 uid: 25799b45-b4ab-ebfe-28cd-862231301cfd

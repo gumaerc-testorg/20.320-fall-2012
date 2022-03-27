@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Protein Design Project
 parent_type: CourseSection
+parent_uid: 4e768918-89cb-0ab8-82ea-1711a42e3666
 resourcetype: Other
 title: 2DVQ_project.pdb
 uid: c21a54de-072e-8791-8219-3bcd1d49c90f

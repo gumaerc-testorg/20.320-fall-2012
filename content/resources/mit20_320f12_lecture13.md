@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modeling and Manipulating Biomolecular Interactions
 parent_type: CourseSection
+parent_uid: 52f93d5d-eeab-ca0a-0c75-5793cc45656c
 resourcetype: Document
 title: 20.320 Analysis of Biomolecular and Cellular Systems, TA Lecture Note 13
 uid: e4308ecb-bb87-16db-1728-422ab968a544

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Protein Design Project
 parent_type: CourseSection
+parent_uid: 4e768918-89cb-0ab8-82ea-1711a42e3666
 resourcetype: Other
 title: MIT20_320F12_pept_assign.xlsx
 uid: 2f0db5db-2f09-6a0c-ffe0-f702bacc1f03

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Protein Networks Project
 parent_type: CourseSection
+parent_uid: 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0
 resourcetype: Other
 title: parta_data.csv
 uid: ae593292-bd54-8bee-14de-20d7c9b85311

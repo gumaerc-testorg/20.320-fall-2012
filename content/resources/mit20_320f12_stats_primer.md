@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modeling and Manipulating Biomolecular Interactions
 parent_type: CourseSection
+parent_uid: 52f93d5d-eeab-ca0a-0c75-5793cc45656c
 resourcetype: Document
 title: Statistics and Probability Primer for Computational Biologists. MIT. BE.490/7.91,
   2004.

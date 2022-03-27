@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Protein Design Project
 parent_type: CourseSection
+parent_uid: 4e768918-89cb-0ab8-82ea-1711a42e3666
 resourcetype: Document
 title: '20.320 Analysis of Biomolecular and Cellular Systems, Protein Design Project:
   Part 3 and Appendices A and B'

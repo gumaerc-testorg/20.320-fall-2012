@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Protein Networks Project
 parent_type: CourseSection
+parent_uid: 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0
 resourcetype: Other
 title: YOURNAMEHERE.m
 uid: 11b28a04-6bf4-7624-adc3-08051ccf7a5d

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modeling of Cellular Systems
 parent_type: CourseSection
+parent_uid: cebb4d77-9ee1-4d41-5e78-cb06b0277b90
 resourcetype: Document
 title: 20.320 - Analysis of Biomolecular and Cellular Systems, TA Lecture Note 10
 uid: fd3f1e6d-08b1-cef5-e4d7-81184eaad446

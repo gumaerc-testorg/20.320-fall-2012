@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/5d3dc2d104a2573dcd3f37d2f92736ba_20-320_stat-students.png
+file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/5d3dc2d104a2573dcd3f37d2f92736ba_20-320_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''

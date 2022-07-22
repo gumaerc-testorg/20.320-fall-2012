@@ -4,6 +4,7 @@ description: This is special file related to assignments.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/ff496192596e7f74bf757cb20c244cea_PS5Q3data.mat
 file_type: application/octet-stream
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: PS5Q3data.mat
 uid: ff496192-596e-7f74-bf75-7cb20c244cea
 ---
 This is special file related to assignments.
-

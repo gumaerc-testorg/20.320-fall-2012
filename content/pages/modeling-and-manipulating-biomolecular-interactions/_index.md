@@ -98,8 +98,8 @@ Courtesy of Rebecca L. Carrier. Used with permission.
 
 ## {{< anchor "Reading_Material" >}}{{< /anchor >}}Reading Material (Optional)
 
-Scheeff, Eric D., and J. Lynn Fink. "Fundamentals of Protein Structure." In *Structural Bioinformatics*. Edited by Philip E. Bourne, and Helge Weissig. Wiley-Liss, 2003, pp. 15–39. ISBN: 9780471201991. \[Preview with [Google Books](http://books.google.com/books?id=4H_ai7ivRIcC&pg=PA15#v=onepage)\]
+Scheeff, Eric D., and J. Lynn Fink. "Fundamentals of Protein Structure." In *Structural Bioinformatics*. Edited by Philip E. Bourne, and Helge Weissig. Wiley-Liss, 2003, pp. 15–39. ISBN: 9780471201991. \[Preview with {{% resource_link "44bf55f3-9732-478b-b340-d8f80e6149fd" "Google Books" %}}\]
 
-Grinstead, Charles M., and J. Laurie Snell, eds. [*Introduction to Probability* (PDF - 3.06MB)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf). American Mathematical Society, 1997. ISBN: 9780821807491. \[Preview with [Google Books](http://books.google.com/books?id=14oq4uWGCkwC&pg=PAfrontcover)\]
+Grinstead, Charles M., and J. Laurie Snell, eds. {{% resource_link "0890c6d2-10fc-4766-b4b1-3a80f7540281" "*Introduction to Probability* (PDF - 3.06MB)" %}}. American Mathematical Society, 1997. ISBN: 9780821807491. \[Preview with {{% resource_link "837a6e42-e04d-4934-9c92-fad8d7e4ee63" "Google Books" %}}\]
 
 Woolf, Peter, Burge Christopher, et al. {{% resource_link "e4de50a9-77c2-2681-4a80-4c0944b2c70a" "Statistics and Probability Primer for Computational Biologists (PDF)" %}}. 2004. (Courtesy of the authors. Used with permission.)

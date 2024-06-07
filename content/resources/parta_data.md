@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file of protein networks project.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/ae593292bd548bee14de20d7c9b85311_parta_data.csv
+file_size: 3235
 file_type: text/comma-separated-values
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

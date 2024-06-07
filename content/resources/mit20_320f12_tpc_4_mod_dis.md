@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding modeling disease.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/87b4d78e5b1748cedd3f65efa5dd494a_MIT20_320F12_Tpc_4_Mod_Dis.pdf
+file_size: 616227
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

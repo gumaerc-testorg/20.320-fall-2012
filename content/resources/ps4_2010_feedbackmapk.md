@@ -2,6 +2,7 @@
 content_type: resource
 description: This is special file related to assignments.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/9fef775e000d905b215ff67aee922292_PS4_2010_FeedbackMAPK.m
+file_size: 3135
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

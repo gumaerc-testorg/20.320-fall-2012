@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/784d78174ec43ba861ab2850b8524213_20-320_classroom-2.jpg
+file_size: 27592
 file_type: image/jpeg
 image_metadata:
   caption: ''

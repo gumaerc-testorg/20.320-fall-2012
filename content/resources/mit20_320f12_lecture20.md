@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 20.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/ab9588b1499e0d5a2775f8e002599202_MIT20_320F12_Lecture20.pdf
+file_size: 962014
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

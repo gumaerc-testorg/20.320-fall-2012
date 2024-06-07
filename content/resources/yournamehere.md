@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file of protein networks project.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/11b28a046bf47624adc308051ccf7a5d_YOURNAMEHERE.m
+file_size: 1887
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

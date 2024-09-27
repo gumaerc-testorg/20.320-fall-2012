@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding network modeling .
-file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/1821a6a619f3abc81b5fe93f7882fee7_MIT20_320F12_Netok_model.pdf
+file: /ol-ocw-studio-app/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/1821a6a619f3abc81b5fe93f7882fee7_MIT20_320F12_Netok_model.pdf
 file_size: 278775
 file_type: application/pdf
 learning_resource_types: []

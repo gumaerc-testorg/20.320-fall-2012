@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is special file related to assignments.
-file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/191bd4856b21bbb30d1f696822ad0699_PS2_2010_ps3_huang_ferrell.m
+file: /ol-ocw-studio-app/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/191bd4856b21bbb30d1f696822ad0699_PS2_2010_ps3_huang_ferrell.m
 file_size: 3172
 file_type: text/x-objcsrc
 learning_resource_types: []

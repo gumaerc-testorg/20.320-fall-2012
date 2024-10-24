@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding statistics and probability
   primer for computational biologists.
-file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/e4de50a977c226814a804c0944b2c70a_MIT20_320F12_Stats_Primer.pdf
+file: /ol-ocw-studio-app/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/e4de50a977c226814a804c0944b2c70a_MIT20_320F12_Stats_Primer.pdf
 file_size: 1073482
 file_type: application/pdf
 learning_resource_types: []

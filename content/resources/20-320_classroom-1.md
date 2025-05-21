@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/87ccd1c9c71d1f9fbe0a126ce8eaaea9_20-320_classroom-1.jpg
+file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/87ccd1c9c71d1f9fbe0a126ce8eaaea9_20-320_classroom-1.jpg
 file_size: 30517
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: "This file contains information regarding solutions to design project\
   \ \u2013 part a."
-file: /ol-ocw-studio-app/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/e09e51ccd9525f1573ebf0d620e14dc3_MIT20_320F12_So_De_Pr-PaA.pdf
+file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/e09e51ccd9525f1573ebf0d620e14dc3_MIT20_320F12_So_De_Pr-PaA.pdf
 file_size: 744275
 file_type: application/pdf
 learning_resource_types: []

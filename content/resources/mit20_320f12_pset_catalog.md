@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set catalog.
-file: /ol-ocw-studio-app/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/b6584992ca25eabdd6724181bea31aa9_MIT20_320F12_PSET_Catalog.pdf
+file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/b6584992ca25eabdd6724181bea31aa9_MIT20_320F12_PSET_Catalog.pdf
 file_size: 206869
 file_type: application/pdf
 learning_resource_types: []

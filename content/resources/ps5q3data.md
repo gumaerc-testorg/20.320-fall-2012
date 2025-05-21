@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is special file related to assignments.
-file: /ol-ocw-studio-app/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/ff496192596e7f74bf757cb20c244cea_PS5Q3data.mat
+file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/ff496192596e7f74bf757cb20c244cea_PS5Q3data.mat
 file_size: 781
 file_type: application/octet-stream
 learning_resource_types: []

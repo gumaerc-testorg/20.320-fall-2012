@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is special file related to assignments.
-file: /ol-ocw-studio-app/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/6102d1519a675aa68a1c60cccbaf7c2d_PS2_2010_KinaseCascade.m
+file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/6102d1519a675aa68a1c60cccbaf7c2d_PS2_2010_KinaseCascade.m
 file_size: 2284
 file_type: text/x-objcsrc
 learning_resource_types: []

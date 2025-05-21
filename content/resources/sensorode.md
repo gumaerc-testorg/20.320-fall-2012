@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file of protein networks project.
-file: /ol-ocw-studio-app/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/33fa462068861f2786d365b1562109dd_sensorODE.m
+file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/33fa462068861f2786d365b1562109dd_sensorODE.m
 file_size: 504
 file_type: text/x-objcsrc
 learning_resource_types: []

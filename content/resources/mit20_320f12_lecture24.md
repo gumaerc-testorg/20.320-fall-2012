@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 24.
-file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/ef05dc223da7760e6db25255f35b01b7_MIT20_320F12_Lecture24.pdf
+file: /ol-ocw-studio-app/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/ef05dc223da7760e6db25255f35b01b7_MIT20_320F12_Lecture24.pdf
 file_size: 1320835
 file_type: application/pdf
 learning_resource_types: []

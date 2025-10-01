@@ -71,26 +71,26 @@ Ligand depletion (Notes for this lecture are not available.)
 
 ## {{< anchor "Reading_Material" >}}{{< /anchor >}}Reading Material (Optional)
 
-Söderberg, Ola, et al. "[Direct Observation of Individual Endogenous Protein Complexes in Situ by Proximity Ligation](http://dx.doi.org/10.1038/nmeth947)." *Nature Methods* 3, no. 12 (2006): 995–1000.
+Söderberg, Ola, et al. "{{% resource_link "1218b186-04d5-4a14-9382-6e50f1e04ab6" "Direct Observation of Individual Endogenous Protein Complexes in Situ by Proximity Ligation" %}}." *Nature Methods* 3, no. 12 (2006): 995–1000.
 
-Gusev, Yuriy, et al. "[Rolling Circle Amplification: A New Approach to Increase Sensitivity for Immunohistochemistry and Flow Cytometry](http://dx.doi.org/10.1016/S0002-9440(10)61674-4)." *The American Journal of Pathology* 159, no. 1 (2001): 63–9.
+Gusev, Yuriy, et al. "{{% resource_link "dfb31ac7-1550-41dd-bf5e-a0d4d536f21e" "Rolling Circle Amplification: A New Approach to Increase Sensitivity for Immunohistochemistry and Flow Cytometry" %}}." *The American Journal of Pathology* 159, no. 1 (2001): 63–9.
 
-Yarden, Y. "[The EGFR Family and its Ligands in Human Cancer: Signalling Mechanisms and Therapeutic Opportunities](http://dx.doi.org/10.1016/S0959-8049(01)00230-1)." *European Journal of Cancer* 37 (2001): 3–8.
+Yarden, Y. "{{% resource_link "57896215-c95f-4347-acd3-690ed2ff2a43" "The EGFR Family and its Ligands in Human Cancer: Signalling Mechanisms and Therapeutic Opportunities" %}}." *European Journal of Cancer* 37 (2001): 3–8.
 
-Huang, Chi-Ying, and James E. Ferrell, Jr. "[Ultrasensitivity in the Mitogen-activated Protein Kinase Cascade](http://www.pnas.org/content/93/19/10078.abstract)." *Proceedings of the National Academy of Sciences* 93, no. 19 (1996): 10078–83.
+Huang, Chi-Ying, and James E. Ferrell, Jr. "{{% resource_link "dcaefbe4-5b31-433d-ba0a-f3be83ac2602" "Ultrasensitivity in the Mitogen-activated Protein Kinase Cascade" %}}." *Proceedings of the National Academy of Sciences* 93, no. 19 (1996): 10078–83.
 
-Santos, Silvia D. M., et al. "[Growth Factor-induced MAPK Network Topology Shapes Erk Response Determining PC-12 Cell Fate](http://dx.doi.org/10.1038/ncb1543)." *Nature Cell Biology* 9, no. 3 (2007): 324–30.
+Santos, Silvia D. M., et al. "{{% resource_link "c1b17090-e279-4987-bc4f-52ca7e06a04d" "Growth Factor-induced MAPK Network Topology Shapes Erk Response Determining PC-12 Cell Fate" %}}." *Nature Cell Biology* 9, no. 3 (2007): 324–30.
 
-Turke, Alexa B., et al. "[MEK Inhibition Leads to PI3K/AKT Activation by Relieving a Negative Feedback on ERBB Receptors](http://dx.doi.org/10.1158/0008-5472.CAN-11-3747)." *Cancer Research* 72, no. 13 (2012): 3228–37.
+Turke, Alexa B., et al. "{{% resource_link "1b40bba9-451b-4720-8eb2-d681529f1b33" "MEK Inhibition Leads to PI3K/AKT Activation by Relieving a Negative Feedback on ERBB Receptors" %}}." *Cancer Research* 72, no. 13 (2012): 3228–37.
 
-Kim, Sun Young, and James E. Ferrell, Jr. "[Substrate Competition as a Source of Ultrasensitivity in the Inactivation of Wee1](http://dx.doi.org/10.1016/j.cell.2007.01.039)." *Cell* 128, no. 6 (2007): 1133–45.
+Kim, Sun Young, and James E. Ferrell, Jr. "{{% resource_link "444aaefc-131a-48cc-93b9-7d88a2582c36" "Substrate Competition as a Source of Ultrasensitivity in the Inactivation of Wee1" %}}." *Cell* 128, no. 6 (2007): 1133–45.
 
-Carlson, Scott M., et al. "[Large-scale Discovery of ERK2 Substrates Identifies ERK-mediated Transcriptional Regulation by ETV3](http://dx.doi.org/10.1126/scisignal.2002010)." *Science Signaling* 4, no. 196 (2011): rs11.
+Carlson, Scott M., et al. "{{% resource_link "caf56cba-a791-4735-96dd-d8c2bb6791f2" "Large-scale Discovery of ERK2 Substrates Identifies ERK-mediated Transcriptional Regulation by ETV3" %}}." *Science Signaling* 4, no. 196 (2011): rs11.
 
-Albeck, John G., et al. "[Quantitative Analysis of Pathways Controlling Extrinsic Apoptosis in Single Cells](http://dx.doi.org/10.1016/j.molcel.2008.02.012)." *Molecular Cell* 30, no. 1 (2008): 11–25.
+Albeck, John G., et al. "{{% resource_link "ede1d8fe-b3c9-4f31-9c85-9e9e8b56b33f" "Quantitative Analysis of Pathways Controlling Extrinsic Apoptosis in Single Cells" %}}." *Molecular Cell* 30, no. 1 (2008): 11–25.
 
-Friedman, Lilach M., et al. "[Synergistic Down-regulation of Receptor Tyrosine Kinases by Combinations of mAbs: Implications for Cancer Immunotherapy](http://dx.doi.org/10.1073/pnas.0409610102)." *Proceedings of the National Academy of Sciences* 102, no. 6 (2005): 1915–20.
+Friedman, Lilach M., et al. "{{% resource_link "00ff25ac-74f0-4f18-ac90-e05bd9086c83" "Synergistic Down-regulation of Receptor Tyrosine Kinases by Combinations of mAbs: Implications for Cancer Immunotherapy" %}}." *Proceedings of the National Academy of Sciences* 102, no. 6 (2005): 1915–20.
 
-Spangler, Jamie B., et al. "[Combination Antibody Treatment Down-regulates Epidermal Growth Factor Receptor by Inhibiting Endosomal Recycling](http://dx.doi.org/10.1073/pnas.0913476107)." *Proceedings of the National Academy of Sciences* 107, no. 30 (2010): 13252–7.
+Spangler, Jamie B., et al. "{{% resource_link "8bee3f3d-a9e7-455a-b2df-e688fd8402ef" "Combination Antibody Treatment Down-regulates Epidermal Growth Factor Receptor by Inhibiting Endosomal Recycling" %}}." *Proceedings of the National Academy of Sciences* 107, no. 30 (2010): 13252–7.
 
-Haugh, Jason M. "[Mathematical Model of Human Growth Hormone (hGH)‐Stimulated Cell Proliferation Explains the Efficacy of hGH Variants as Receptor Agonists or Antagonists](http://dx.doi.org/10.1021/bp0499101)." *Biotechnology Progress* 20, no. 5 (2004): 1337–44.
+Haugh, Jason M. "{{% resource_link "d53fcb9d-19bc-44e4-b515-cc82dd9a56d0" "Mathematical Model of Human Growth Hormone (hGH)‐Stimulated Cell Proliferation Explains the Efficacy of hGH Variants as Receptor Agonists or Antagonists" %}}." *Biotechnology Progress* 20, no. 5 (2004): 1337–44.
